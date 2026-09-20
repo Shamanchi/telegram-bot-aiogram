@@ -1,10 +1,10 @@
-﻿# Telegram Bot with aiogram 3.x
+# Telegram Bot with aiogram 3.x
 
 **Асинхронный Telegram-бот с FSM, middleware, .env-конфигом**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![aiogram](https://img.shields.io/badge/aiogram-3.13-2CA5E0?logo=telegram)](https://docs.aiogram.dev)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-Shamanchi-green)](LICENSE)
 
 ---
 
