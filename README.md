@@ -132,8 +132,7 @@ GitHub Actions workflow:
 
 ## Лицензия
 
-MIT - см. LICENSE
-
+Лицензия Shamanchi 1.0 (source-available) — см. [LICENSE](LICENSE).
 ---
 
 ## Контакты
